@@ -35,3 +35,19 @@ A Discord bot built using Python and discord.py.
 pip install -r requirements.txt
 python main.py
 ```
+## Screenshots
+
+### Slash Command
+![Slash Commands Demo](assets/slash-commands-demo.png)
+
+### Embed Command
+![Embed Demo](assets/embed-demo.png)
+
+### Buttons
+![Buttons Demo](assets/buttons-demo.png)
+
+### Dropdown Menu
+![Dropdown Demo](assets/dropdown-demo.png)
+
+### Reaction Roles
+![Reaction Roles Demo](assets/reaction-roles-demo.png)
